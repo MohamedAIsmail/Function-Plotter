@@ -2,7 +2,7 @@
 A user friendly responsive desktop application used for plotting correctly validated functions.
 
 ### Preview
-![]([https://github.com/MohamedAIsmail/DSP_Task1_11/blob/main/SamplingStudio-Final.gif](https://github.com/MohamedAIsmail/Function-Plotter/blob/main/Gif/Function%20Plotter%20GIF.gif))
+![](https://github.com/MohamedAIsmail/Function-Plotter/blob/main/Gif/Function%20Plotter%20GIF.gif)
 
 ### Run the app (2 Methods)
 
