@@ -1,4 +1,4 @@
-### Desktop Appilcation - Made using PySide2 - Written in Python
+### Desktop Application -- PySide2 & Python
 A user friendly responsive desktop application used for plotting correctly validated functions.
 
 ### Preview
@@ -26,6 +26,5 @@ python main.py
 
 
 ## Second Method
-Try the app by downloading it from here
-[ Download Here !](https://drive.google.com/file/d/10FhDf9oO7ZWr06RWEsQ7NFy81z24EsAA/view?usp=sharing)
+Try the app by downloading it from here [link](https://drive.google.com/file/d/10FhDf9oO7ZWr06RWEsQ7NFy81z24EsAA/view?usp=sharing)
 
