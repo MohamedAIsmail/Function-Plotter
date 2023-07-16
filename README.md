@@ -1,12 +1,12 @@
-### Desktop Application -- PySide2 & Python
+# Desktop Application -- PySide2 & Python
 A user friendly responsive desktop application used for plotting correctly validated functions.
 
-### Preview
+# Preview
 ![](https://github.com/MohamedAIsmail/Function-Plotter/blob/main/Gif/Function%20Plotter%20GIF.gif)
 
-### Run the app (2 Methods)
+## Run the app (2 Methods)
 
-## First method
+### First method
 1. Install python version 3.8 or lower
 
 ```
@@ -24,12 +24,11 @@ pip install PySide2
 python main.py
 ```
 
-
 ## Second Method
 Try the app by downloading it from this [link](https://drive.google.com/file/d/10FhDf9oO7ZWr06RWEsQ7NFy81z24EsAA/view?usp=sharing)
 
 
-### Automated tests
+# Automated tests
 You can find the automated tests in ```test_app.py``` and you can test them by running the command
 ```
 pytest .\test_app.py
