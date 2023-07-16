@@ -6,7 +6,7 @@ A user friendly responsive desktop application used for plotting correctly valid
 
 ## Run the app (2 Methods)
 
-### First method
+## First method
 1. Install python version 3.8 or lower
 
 ```
