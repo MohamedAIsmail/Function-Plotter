@@ -26,5 +26,12 @@ python main.py
 
 
 ## Second Method
-Try the app by downloading it from here [link](https://drive.google.com/file/d/10FhDf9oO7ZWr06RWEsQ7NFy81z24EsAA/view?usp=sharing)
+Try the app by downloading it from this [link](https://drive.google.com/file/d/10FhDf9oO7ZWr06RWEsQ7NFy81z24EsAA/view?usp=sharing)
+
+
+### Automated tests
+You can find the automated tests in ```test_app.py``` and you can test them by running the command
+```
+pytest .\test_app.py
+```
 
